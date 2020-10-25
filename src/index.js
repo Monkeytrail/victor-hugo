@@ -2,5 +2,6 @@
 
 import "./css/main.css";
 
-Say hello
+const newLocal = "🦊 Hello! Edit me in src/index.js";
+// Say hello
 console.log(newLocal);
